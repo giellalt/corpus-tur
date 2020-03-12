@@ -1,0 +1,46 @@
+<document xml:lang="tur" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>211</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="tur"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Om-UMO/UMO-hakknda</origFileName>
+    <parallel_text xml:lang="eng" location="about-umo.html"/>
+    <parallel_text xml:lang="fin" location="umosta.html"/>
+    <parallel_text xml:lang="rus" location="o-umo.html"/>
+    <parallel_text xml:lang="swe" location="om-umo.html"/>
+    <parallel_text location="o-umo-u-serbokroatiska.html" xml:lang="hbs"/>
+    <parallel_text location="umo.html" xml:lang="ara"/>
+    <parallel_text location="sobre-umo.html" xml:lang="spa"/>
+    <parallel_text location="umo-en-francais.html" xml:lang="fra"/>
+    <parallel_text location="li-ser-umo.html" xml:lang="kmr"/>
+    <parallel_text location="persiska.html" xml:lang="fas"/>
+    <parallel_text location="o-umo-polska.html" xml:lang="pol"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">UMO hakkında (turkiska)</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">UMO hakkında (turkiska)</p>
+    <p xml:lang="swe">» UMO türkçe</p>
+    <p xml:lang="swe">UMO, internete dayalı, 13-25 yaş oranı gençler için ulusal çapta bir muayenehanedir. Webb sitenin amacı gençlere cinsel, sağlık ve cinsler arasi ilişkiler hakkında konuyla ilgili, güncel ve kaliteli bilgi edinmeyi kolaylaştırmaktır. UMO, gençler için eşit yaşam koşullarımın şartlarını hazırlamak ve hareket alanını genişletmek için çalışmaktadır. UMO gençlere, içinde bulundukları durumu (evde, ikili ilişkilerde, okulda ve işte) etkileyebilmeleri için, bilgi ve düşünme imkanı vermek istiyor. Insan kendi hak ve gereklerini bilince, neyi nasıl istediğine de daha rahat karar verebiliyor. UMO webb sitesi herkesi kapsamaktadır ve hedefi herkesin webb sitesi olabilmektir. Webb sitenin kolayca ulaşılabilmesi çok önemlidir ve bu nedenle bir uzman görevlendirilmiştir. UMO webbsitesi Entegrasyon ve Eşitlik Bakanlığın direktifilyle, Sosyal Sağlık Genel Müdürlüğü tarafından finanse edilmektedir. Il genel meclisi ve beledyeler UMO webb sitesini işletmektedirler. Webbsitenin geliştirilmesi Isveçteki gençler, ülkedeki gençlik muayenehaneleri, okul sağlık bakımı , koruyla alakalı çeşitli sivil örgütüler ve gencelerle uğraşan diğer insanların işbirliğiyle sağlamaktadır. Webb sitenin içeriği isveçedir ve şu ana kadar hiç bir materiyal başka bir dile tercüme edilmemiştir. Googlenin webb dayalı çevirim aletiyle kaba bir tercüme edinilebilinir ama tercüme kelimesi kelimesine yapıldığı için bazı cümleler garip ve karmaşık görünebilir. Umarız sen yine de UMO webbsitedeki bilgilerin hiç değilse bir kismını elde edersin.</p>
+  </body>
+</document>

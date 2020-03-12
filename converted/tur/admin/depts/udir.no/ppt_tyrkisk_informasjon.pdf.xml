@@ -1,0 +1,125 @@
+<document xml:lang="tur" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1186</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="tur"/>
+    </multilingual>
+    <origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_tyrkisk_informasjon.pdf</origFileName>
+    <parallel_text xml:lang="eng" location="ppt_engelsk_informasjon.pdf"/>
+    <parallel_text xml:lang="nno" location="ppt_nynorsk-informasjon.pdf"/>
+    <parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/>
+    <parallel_text xml:lang="rus" location="ppt_russisk_informasjon.pdf"/>
+    <parallel_text xml:lang="sma" location="sorsamisk.pdf"/>
+    <parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/>
+    <parallel_text location="ppt_arabisk_informasjon.pdf" xml:lang="ara"/>
+    <parallel_text location="ppt_persisk_informasjon.pdf" xml:lang="fas"/>
+    <parallel_text location="ppt_vietnamesisk_informasjon.pdf" xml:lang="vie"/>
+    <parallel_text location="ppt_sorani_informasjon.pdf" xml:lang="ckb"/>
+    <parallel_text location="ppt_urdu_informasjon.pdf" xml:lang="urd"/>
+    <parallel_text location="ppt_fransk_informasjon.pdf" xml:lang="fra"/>
+    <parallel_text location="ppt_somalisk_informasjon.pdf" xml:lang="som"/>
+    <parallel_text location="ppt_polsk_informasjon.pdf" xml:lang="pol"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nob">Pedagojik – Psikolojik Hizmetler</p>
+    <p xml:lang="nob">Pedagojik Psikolojik Hizmetler (PP – Hizmetleri) okul çağı altında çocuklar, ve ilk-ve ortaokul ve lise öğrencileri için, gelişim, öğrenim ve refahı ile ilgili danışmanlık ve uzmanlık kurumudur. PP-hizmetleri temel eğitim ihtiyacı olan yetişkinler için de yardımcı olur. PP-hizmetlerinin çalışmaları Eğitim Yasası (oppll) kapsamındadır. PP-hizmetleri, anaokullara/okullara, özel ihtiyaçları olan çocuklar ve öğrenciler için eğitimi daha kolay hale getirebilmelerine yardımcı, profesyonel bir bilgi kaynağı durumundadır.</p>
+    <p xml:lang="nob">PP – Hizmetleri</p>
+    <p type="listitem" xml:lang="nob">•  diğer şeylerin yanı sıra anaokullarına ve okullara, grup ve öğrenme ortamı üzerine pedagojik liderlik hakkında danışmanlık ve rehberlik sunmaktadır.</p>
+    <p type="listitem" xml:lang="nob">•  uzmanlık ve kurumsal gelişim ile okullara yardım sunacak ve Eğitim Yasasının zorunlu kıldığı durumlarda uzman görüşü hazırlanmasını sağlayacaktır. Ve ihtiyacı olan çocuklar ve öğrenciler için düzenlemeler üzerine anaokuluna ve okula öneriler ve rehberlik sunacaktır.</p>
+    <p type="listitem" xml:lang="nob">•  Eğitim yasası § 5-6 uyarınca zorunlu bir belediye hizmetidir. Bu hizmetler belediyeler arasında organize edilebilir. Belediyeler ve ilçe belediyeleri müşterek hizmetler sunabilir.</p>
+    <p type="listitem" xml:lang="nob">•  Gizlilik esastır: toplanan tüm bilgiler Veri Denetmenliği yönergeleri uyarınca özel bir dosyada saklanır.</p>
+    <p type="listitem" xml:lang="nob">•  Eğitim Yasasında öngörülen hakların değerlendirilmesi söz konusu olduğunda belediyelerin /ilçe belediyelerinin uzman kurumudur.</p>
+    <p xml:lang="nob">Belediyeler ve ilçe belediyeleri aşağıdaki durumlarda PP- hizmetlerinden tavsiye almaktadır:</p>
+    <p type="listitem" xml:lang="nob">•  Okul öncesi özel pedagojik yardım (§ 5-7)</p>
+    <p type="listitem" xml:lang="nob">•  Okullarda özel eğitim (§ 5-1) ve temel eğitim ihtiyacı olan yetişkinler için (§ 4a-2)</p>
+    <p type="listitem" xml:lang="nob">•  Erken okula başlama (§ 2-1 üçüncü fıkrası)</p>
+    <p type="listitem" xml:lang="nob">•  Ertelenmiş okula başlama (§ 2-1 üçüncü fıkrası)</p>
+    <p type="listitem" xml:lang="nob">•  Eğitim zorunluluğundan muafiyet (§ 2-1 dördüncü fıkrası)</p>
+    <p type="listitem" xml:lang="nob">•  Okul öncesi işaret dili eğitimi ve ilk- ve orta okullarda (§ 2-6) ve lise eğitiminde (§ 3-9)</p>
+    <p type="listitem" xml:lang="nob">•  İlk- ve orta okullarda (§ 2-14) ve lise eğitiminde (§ 3-10) braille v.b.</p>
+    <p type="listitem" xml:lang="nob">•  Liselere özel koşullarda kabul (§ 3-1 altıncı fıkrası)</p>
+    <p type="listitem" xml:lang="nob">•  Liselerde genişletilmiş eğitim süresi (§ 3-1 beşinci fıkrası)</p>
+    <p xml:lang="nob">Görevler</p>
+    <p xml:lang="nob">PP-hizmetleri inceleme yapar ve öğrenmeyi etkileyebilecek zorlukları olan çocuklar, gençler ve yetişkinler hakkında tavsiye ve rehberlik sağlamaktadır. Bu zorluklara örnekler şunlardır;</p>
+    <p type="listitem" xml:lang="nob">•  dil - ve konuşma güçlüğü</p>
+    <p type="listitem" xml:lang="nob">•  genel öğrenme güçlüğü veya konularda zorluklar</p>
+    <p type="listitem" xml:lang="nob">•  okuma - yazma güçlüğü</p>
+    <p type="listitem" xml:lang="nob">•  matematik zorlukları</p>
+    <p type="listitem" xml:lang="nob">•  sözsel öğrenme güçlüğü</p>
+    <p type="listitem" xml:lang="nob">•  konsantrasyon güçlüğü</p>
+    <p type="listitem" xml:lang="nob">•  sosyal ve duygusal güçlükler</p>
+    <p type="listitem" xml:lang="nob">•  davranış problemleri</p>
+    <p type="listitem" xml:lang="nob">•  görme- ve işitme bozuklukları</p>
+    <p xml:lang="nob">İletişim</p>
+    <p xml:lang="nob">15 yaş üzeri öğrenciler, veliler, anaokullar, okullar ve isteğe göre kamu sağlığı gibi diğer kurumlar, PP- hizmetleri ile irtibata geçebilir ve danışmanlık alabilirler. Bir çocuğun gelişimi ve öğrenme konusunda endişeleriniz varsa, konuyu, bir sevk şeklinde resmi bir mesele haline gelmeden, PP- hizmetleri ile anonim olarak tartışabilirsiniz.</p>
+    <p xml:lang="nob">Sevk</p>
+    <p xml:lang="nob">Bir dava PP- hizmetlerine sevk edilmeden önce, okulun sahip oldukları çerçeveler içinde diğer önlemler denenmiş olup olmadığı incelenmelidir. Okul çağı altında çocuklar söz konusu olduğunda çocuğun ihtiyaçları, anaokulunun çocuk için düzenlemelerine bağımsız olarak değerlendirilmelidir.</p>
+    <p xml:lang="nob">İnceleme ve değerlendirme için bir dava PP- hizmetlerine aşağıdaki durumlarda sevk edilebilir</p>
+    <p type="listitem" xml:lang="nob">•  ebeveynler, anaokulu ve/veya okul bir çocuğun yaşına göre beklendiği şekilde gelişmekte olmadığı hakkında endişe duyuyorsa</p>
+    <p type="listitem" xml:lang="nob">•  öğrencinin eğitimden tatmin edici bir verim almadığı hususunda şüphe varsa</p>
+    <p xml:lang="nob">Öğrenci veya ebeveynler, öğrencinin özel eğitim ihtiyacı olup olmadığını belirlemek, ve öğrencinin olası eğitim gereksinimlerini belirlemek için, gerekli incelemeleri yapmasını okuldan isteyebilir.</p>
+    <p xml:lang="nob">Öğretim görevlileri</p>
+    <p type="listitem" xml:lang="nob">•  Bir öğrencinin özel eğitim ihtiyacı olup olmadığını değerlendireceklerdir</p>
+    <p type="listitem" xml:lang="nob">•  Böyle bir ihtiyaç mevcut olduğunda müdüre bildireceklerdir</p>
+    <p xml:lang="nob">PP- hizmetlerine yapılan bir sevk tercihen anaokulu/okul ve ebeveynler arasında bir işbirliği içinde olmalıdır. Ebeveynlerin ya da öğrencilerin (15 yaş üzeri) PP- hizmetlerine yapılacak olan bir sevk için onay vermesi gerekmektedir.</p>
+    <p xml:lang="nob">Anaokulu/okul, çocukları/öğrencileri PP- hizmetlerine nasıl sevk edecekleri hususunda yönerge ve prosedürleri belediyeler/ilçe belediyeleri belirlemektedir. Olağan prosedür olarak bir sevk formu doldurarak PP – hizmetlerine sevk yapılabilir. Anaokulu/okul, çocuğun/öğrencinin gelişimi hakkında, ve denenmiş olan önlemleri açıklayan, bir eğitim raporu ek olarak gönderir.</p>
+    <p xml:lang="nob">Sevk hakkında daha fazla bilgi için (anaokullar ya da ilk- ve ortaokullar için) belediyelere veya (liseler için) ilçe belediyelerine başvurabilirsiniz.</p>
+    <p xml:lang="nob">Prosedürel</p>
+    <p xml:lang="nob"><em type="bold">İnceleme  </em></p>
+    <p xml:lang="nob">PP – hizmetleri bir başvuru aldığında, ebeveynlerin, anaokulu ya da okul ile işbirliği içinde, ne için yardım istediklerini açıklığa kavuşturması normal bir prosedürdür. Çoğu durumda PP- hizmetlerinin inceleme ve öneriler kapsayan bir uzman değerlendirme hazırlaması isteği söz konusudur.</p>
+    <p xml:lang="nob">İnceleme aşağıdakilerden oluşabilir</p>
+    <p type="listitem" xml:lang="nob">•  durum tespiti ve anaokulunda ya da okulda alınan önlemler</p>
+    <p type="listitem" xml:lang="nob">•  diğer kurumlardan alınan görüş bildirimleri, yapılan görüşmeler, gözlem ve çocuğa/öğrenciye yapılan testler</p>
+    <p xml:lang="nob">Okul çağı altında çocuklar için yapılan bir inceleme çocuğun ihtiyaçları ile ilgili olacaktır. Okuldaki öğrenciler için yapılan bir inceleme, hem öğrencinin öğrenme koşulları hem de sunulan genel eğitim çerçevesinde okulun kolaylaştırma önlemleri sunabilme imkanları hususunu kapsayacaktır.</p>
+    <p xml:lang="nob"><em type="bold">Tavsiyeler </em></p>
+    <p xml:lang="nob">PP – hizmetleri yapılan inceleme temelinde, çocuğun/öğrencinin özel ihtiyaçları hakkında uzman değerlendirme şeklinde yazılı bir tavsiye sunacaktır.</p>
+    <p xml:lang="nob">Değerlendirme</p>
+    <p type="listitem" xml:lang="nob">•  Çocuğun/öğrencinin Eğitim Yasası § 5-7 uyarınca özel pedagojik yardıma ya da Eğitim Yasası  § 5-1 uyarınca özel eğitime ihtiyacı olup olmadığını gösterecektir.</p>
+    <p type="listitem" xml:lang="nob">•  Hangi tür yardımın / eğitim hizmetinin verilmesi konusunda tavsiye sağlayacaktır.</p>
+    <p xml:lang="nob">Eğer çocuğunuz Eğitim Yasası § 5-7 uyarınca özel pedagojik yardım alma hakkına sahip ise, ebeveyn danışmanlığı, sunulan yardım teklifinin bir parçası olmak zorundadır.</p>
+    <p xml:lang="nob">Okul çağı altında çocuklar için PP- hizmetlerinin sağlayacağı yazılı bir öneri aşağıdakileri içermelidir.</p>
+    <p type="listitem" xml:lang="nob">•  Ne tür özel pedagojik yardımların çocuk için uygun bir gelişme sağlayacağı</p>
+    <p type="listitem" xml:lang="nob">•  Çocuğun gelişimi ve öğrenimi için gerçekçi hedefler</p>
+    <p xml:lang="nob">Okuldaki öğrenciler için PP- hizmetlerinin sağlayacağı yazılı bir öneri aşağıdakiler hakkında bir değerlendirme içermelidir.</p>
+    <p type="listitem" xml:lang="nob">•  öğrencinin genel eğitim kapsamında yaşadığı zorlukların çözülüp çözülemeyeceği</p>
+    <p type="listitem" xml:lang="nob">•  hangi eğitimin uygun bir eğitim hizmeti sağlayacağı</p>
+    <p type="listitem" xml:lang="nob">•  öğrenci için gerçekçi eğitim hedeflerin neler olduğu</p>
+    <p xml:lang="nob">PP-hizmetleri uzman değerlendirme çalışmalarında öğrenci ve / veya ebeveynleri ile istişare içinde olmalıdır, ve onların düşüncelerine önem vermelidir.</p>
+    <p xml:lang="nob">Uzman değerlendirmesi (inceleme ve öneriler) hazır olduğunda ebeveynler</p>
+    <p type="listitem" xml:lang="nob">•  belediyenin/anaokulu sahibinin, okul çağı altında çocuklar hakkında bireysel bir karar alabilmesi için uzman değerlendirmesini temel olarak kullanmasına rıza vermelidirler. Ve PPhizmetlerinin önermiş olduğu önlemlerin belediye/ anaokulu sahibi tarafından uygulamaya koyulmasına onay vermelidirler.</p>
+    <p type="listitem" xml:lang="nob">•  okul sahibinin / okulun, okuldaki öğrenciler ya da 15 yaş üzeri öğrenciler hakkında bireysel bir</p>
+    <p xml:lang="nob">karar alabilmesi için uzman değerlendirmesini temel olarak kullanmasına rıza vermelidirler.</p>
+    <p xml:lang="nob">Ve PP-hizmetlerinin sunmuş olduğu önlemlerin okul sahibi / okul tarafından uygulamaya koyulmasına onay vermelidirler.</p>
+    <p xml:lang="nob">Statped hakkında</p>
+    <p xml:lang="nob">Gerektiğinde PP-hizmetleri Statped’den devlet özel eğitim desteği için başvurabilir.</p>
+    <p xml:lang="nob">Statped</p>
+    <p type="listitem" xml:lang="nob">•  Özel eğitim ihtiyaçları olan çocuklar, gençler ve yetişkinlerin Eğitim Yasası doğrultusunda, eğitim, istihdam ve topluma aktif katılımcı olmaları için iyi fırsatlar elde edebilmelerine yardımcı olur.</p>
+    <p type="listitem" xml:lang="nob">•  Bilgilerini artırır ve özel eğitim hakkında bilgi, ve eşit, uyarlanmış ve kapsayıcı eğitim verir</p>
+    <p type="listitem" xml:lang="nob">•  İşitme, görme, dil/konuşma, edinilmiş beyin hasarı, karmaşık öğrenme güçlükleri ve sağırlık ve körlük gibi özel eğitim alanlarını geliştirmek için bir öncüdür</p>
+    <p type="listitem" xml:lang="nob">•  Özel eğitim ihtiyaçları olan çocuklar, gençler ve yetişkinler için öğrenme kaynakları hakkında uzman bilgiye sahiptir</p>
+    <p xml:lang="nob">Daha fazla bilgi için,<em type="italic"> www.statped.no </em>’ya bakınız.  </p>
+    <p xml:lang="nob">Çok Kültürlü Eğitim Ulusal Merkezi hakkında (NAFO)</p>
+    <p xml:lang="nob">Göçmen (azınlık-dilli) çocuklar/öğrenciler söz konusu olduğunda öğrenme güçlüğü nedenini değerlendirmek her zaman için kolay değildir. En büyük zorluk dil anlayış eksikliği mi, ya da öğrenmeyi zorlaştıran başka nedenler varmıdır?</p>
+    <p xml:lang="nob">NAFO’nun görevi aşağıdakiler dahilinde katkıda bulunmaktır</p>
+    <p type="listitem" xml:lang="nob">•  Çocuklar, gençler ve yetişkinlerin, kapsayıcı bir toplum içinde yüksek kalitede eşit ve uyarlanmış eğitim alabilmeleri için milli eğitim politikasının başlatılıp ve uygulanması</p>
+    <p type="listitem" xml:lang="nob">•  Anaokulu ve ilk- ve orta eğitimde çok kültürlü perspektiflerin korunması</p>
+    <p type="listitem" xml:lang="nob">•  Azınlık dilli olanlara sunulan eğitim, ve anaokulu ve ilk- ve orta eğitimde kapsayıcı, çok kültürlü öğrenim topluluğu geliştirme çabalarında kalitenin artması</p>
+    <p xml:lang="nob">Öğretmenler, okul liderleri, anaokulu- ve okul sahipleri, ve anaokulu öğretim görevlileri bu kurum için önemli hedef kitleleridirler. Bu merkez (NAFO), bilgi geliştirme çalışmalarında Üniversiteler ve Kolejler – sektörü /öğretmenlik eğitimi veren kurumlara yardımcı olacaktır.</p>
+    <p xml:lang="nob">Daha fazla bilgi için<em type="italic"> http://www.hioa.no/Om-HiOA/NAFO </em>’ya bakınız. </p>
+  </body>
+</document>
