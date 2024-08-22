@@ -1,4 +1,5 @@
-<document xml:lang="tur" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1141</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="tur"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_tyrkisk_informasjon.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_informasjon.pdf"/><parallel_text xml:lang="nno" location="ppt_nynorsk-informasjon.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/><parallel_text xml:lang="rus" location="ppt_russisk_informasjon.pdf"/><parallel_text xml:lang="sma" location="sorsamisk.pdf"/><parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/><parallel_text location="ppt_arabisk_informasjon.pdf" xml:lang="ara"/><parallel_text location="ppt_persisk_informasjon.pdf" xml:lang="fas"/><parallel_text location="ppt_vietnamesisk_informasjon.pdf" xml:lang="vie"/><parallel_text location="ppt_sorani_informasjon.pdf" xml:lang="ckb"/><parallel_text location="ppt_urdu_informasjon.pdf" xml:lang="urd"/><parallel_text location="ppt_fransk_informasjon.pdf" xml:lang="fra"/><parallel_text location="ppt_somalisk_informasjon.pdf" xml:lang="som"/><parallel_text location="ppt_polsk_informasjon.pdf" xml:lang="pol"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Pedagojik – Psikolojik Hizmetler</p>
+<document xml:lang="tur" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1166</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="tur"/><language xml:lang="nob"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_tyrkisk_informasjon.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_informasjon.pdf"/><parallel_text xml:lang="nno" location="ppt_nynorsk-informasjon.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/><parallel_text xml:lang="rus" location="ppt_russisk_informasjon.pdf"/><parallel_text xml:lang="sma" location="sorsamisk.pdf"/><parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/><parallel_text xml:lang="ara" location="ppt_arabisk_informasjon.pdf"/><parallel_text xml:lang="fas" location="ppt_persisk_informasjon.pdf"/><parallel_text xml:lang="vie" location="ppt_vietnamesisk_informasjon.pdf"/><parallel_text xml:lang="ckb" location="ppt_sorani_informasjon.pdf"/><parallel_text xml:lang="urd" location="ppt_urdu_informasjon.pdf"/><parallel_text xml:lang="fra" location="ppt_fransk_informasjon.pdf"/><parallel_text xml:lang="som" location="ppt_somalisk_informasjon.pdf"/><parallel_text xml:lang="pol" location="ppt_polsk_informasjon.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="nob">Son versiyon 19.11.2012 revize 6.12.2012</p>
+<p>Pedagojik – Psikolojik Hizmetler</p>
 <p>Pedagojik Psikolojik Hizmetler (PP – Hizmetleri) okul çağı altında çocuklar, ve ilk-ve ortaokul ve lise öğrencileri için, gelişim, öğrenim ve refahı ile ilgili danışmanlık ve uzmanlık kurumudur. PP-hizmetleri temel eğitim ihtiyacı olan yetişkinler için de yardımcı olur. PP-hizmetlerinin çalışmaları Eğitim Yasası (oppll) kapsamındadır. PP-hizmetleri, anaokullara/okullara, özel ihtiyaçları olan çocuklar ve öğrenciler için eğitimi daha kolay hale getirebilmelerine yardımcı, profesyonel bir bilgi kaynağı durumundadır.</p>
 <p type="listitem">PP – Hizmetleri</p>
 <p type="listitem">diğer şeylerin yanı sıra anaokullarına ve okullara, grup ve öğrenme ortamı üzerine pedagojik liderlik hakkında danışmanlık ve rehberlik sunmaktadır.</p>
@@ -22,6 +23,7 @@
 <p type="listitem">genel öğrenme güçlüğü veya konularda zorluklar</p>
 <p type="listitem">okuma - yazma güçlüğü</p>
 <p type="listitem">matematik zorlukları</p>
+<p type="listitem" xml:lang="nob">Son versiyon 19.11.2012 revize 6.12.2012</p>
 <p type="listitem">sözsel öğrenme güçlüğü</p>
 <p type="listitem">konsantrasyon güçlüğü</p>
 <p type="listitem">sosyal ve duygusal güçlükler</p>
@@ -40,6 +42,7 @@
 <p>PP- hizmetlerine yapılan bir sevk tercihen anaokulu/okul ve ebeveynler arasında bir işbirliği içinde olmalıdır. Ebeveynlerin ya da öğrencilerin (15 yaş üzeri) PP- hizmetlerine yapılacak olan bir sevk için onay vermesi gerekmektedir.</p>
 <p>Anaokulu/okul, çocukları/öğrencileri PP- hizmetlerine nasıl sevk edecekleri hususunda yönerge ve prosedürleri belediyeler/ilçe belediyeleri belirlemektedir. Olağan prosedür olarak bir sevk formu doldurarak PP – hizmetlerine sevk yapılabilir. Anaokulu/okul, çocuğun/öğrencinin gelişimi hakkında, ve denenmiş olan önlemleri açıklayan, bir eğitim raporu ek olarak gönderir.</p>
 <p>Sevk hakkında daha fazla bilgi için (anaokullar ya da ilk- ve ortaokullar için) belediyelere veya (liseler için) ilçe belediyelerine başvurabilirsiniz.</p>
+<p xml:lang="nob">Son versiyon 19.11.2012 revize 6.12.2012</p>
 <p>Prosedürel</p>
 <p><em type="bold">İnceleme </em></p>
 <p>PP – hizmetleri bir başvuru aldığında, ebeveynlerin, anaokulu ya da okul ile işbirliği içinde, ne için yardım istediklerini açıklığa kavuşturması normal bir prosedürdür. Çoğu durumda PP- hizmetlerinin inceleme ve öneriler kapsayan bir uzman değerlendirme hazırlaması isteği söz konusudur.</p>
@@ -61,6 +64,7 @@
 <p type="listitem">hangi eğitimin uygun bir eğitim hizmeti sağlayacağı</p>
 <p type="listitem">öğrenci için gerçekçi eğitim hedeflerin neler olduğu</p>
 <p>PP-hizmetleri uzman değerlendirme çalışmalarında öğrenci ve / veya ebeveynleri ile istişare içinde olmalıdır, ve onların düşüncelerine önem vermelidir.</p>
+<p xml:lang="nob">Son versiyon 19.11.2012 revize 6.12.2012</p>
 <p type="listitem">Uzman değerlendirmesi (inceleme ve öneriler) hazır olduğunda ebeveynler</p>
 <p type="listitem">belediyenin/anaokulu sahibinin, okul çağı altında çocuklar hakkında bireysel bir karar alabilmesi için uzman değerlendirmesini temel olarak kullanmasına rıza vermelidirler. Ve PP-hizmetlerinin önermiş olduğu önlemlerin belediye/ anaokulu sahibi tarafından uygulamaya koyulmasına onay vermelidirler.</p>
 <p type="listitem">okul sahibinin / okulun, okuldaki öğrenciler ya da 15 yaş üzeri öğrenciler hakkında bireysel bir karar alabilmesi için uzman değerlendirmesini temel olarak kullanmasına rıza vermelidirler.</p>
@@ -73,6 +77,7 @@
 <p type="listitem">İşitme, görme, dil/konuşma, edinilmiş beyin hasarı, karmaşık öğrenme güçlükleri ve sağırlık ve körlük gibi özel eğitim alanlarını geliştirmek için bir öncüdür</p>
 <p type="listitem">Özel eğitim ihtiyaçları olan çocuklar, gençler ve yetişkinler için öğrenme kaynakları hakkında uzman bilgiye sahiptir</p>
 <p>Daha fazla bilgi için, www.statped.no ’ya bakınız.</p>
+<p xml:lang="nob">Son versiyon 19.11.2012 revize 6.12.2012</p>
 <p>Çok Kültürlü Eğitim Ulusal Merkezi hakkında (NAFO)</p>
 <p>Göçmen (azınlık-dilli) çocuklar/öğrenciler söz konusu olduğunda öğrenme güçlüğü nedenini değerlendirmek her zaman için kolay değildir. En büyük zorluk dil anlayış eksikliği mi, ya da öğrenmeyi zorlaştıran başka nedenler varmıdır?</p>
 <p type="listitem">NAFO’nun görevi aşağıdakiler dahilinde katkıda bulunmaktır</p>
